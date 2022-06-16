@@ -1,0 +1,6 @@
+C:\Users\build\source\repos\MyCalc\obj\Debug\MyCalc.csproj.AssemblyReference.cache
+C:\Users\build\source\repos\MyCalc\obj\Debug\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\build\source\repos\MyCalc\bin\Debug\MyCalc.dll
+C:\Users\build\source\repos\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\build\source\repos\MyCalc\obj\Debug\MyCalc.dll
+C:\Users\build\source\repos\MyCalc\obj\Debug\MyCalc.pdb
